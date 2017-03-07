@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "I hate my laifu"
+title:  "A first post"
 date:   2017-02-16 10:18:13 +0000
 categories: jekyll update
 ---
-I have no waifu, so I have no laifu
+Hello?
