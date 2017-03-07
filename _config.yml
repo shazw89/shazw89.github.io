@@ -1,6 +1,6 @@
 title: My Compendium of Projects
 email: shyan.wong@gmail.com
-description: > Welcome to Headquarters, where my projects roam wild and free. 
+description: > # Welcome to Headquarters, where my projects roam wild and free. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "lamaga.co.uk"
 github_username:  shazw89
