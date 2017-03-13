@@ -22,7 +22,7 @@ github_username:  shazw89
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-athena
 gems:
   - jekyll-feed
 exclude:
